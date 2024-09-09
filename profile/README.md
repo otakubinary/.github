@@ -1,4 +1,4 @@
 # OTAKU BINARY オタクバイナリ
 
 # おはよう (•◡•) /  Beginner VTuber
-### https://linkr.bio/otakubinary
+### https://otakubinary.neocities.org/
